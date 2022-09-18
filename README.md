@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,py,java,html,css,js,vscode,idea,ps,ai,sketchup,twitter,xd&theme=light" />
+    <img src="https://skillicons.dev/icons?i=github,py,java,html,css,js,vscode,idea,ps,ai,xd,sketchup&theme=light" />
   </a>
 </p>
 
@@ -27,4 +27,3 @@
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&locale=en" alt="sameerasw" /></p>
--**sameerasw/sameerasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
