@@ -1,6 +1,14 @@
 ### Hi there 👋
 
 <h1 align="center">Hi 👋, I'm Sameera</h1>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,py,java,html,css,js,vscode,idea,ps,ai,sketchup,twitter,xd&theme=light" />
+  </a>
+</p>
+
 <h3 align="center">A passionate frontend developer from Sri Lanka</h3>
 
 <p align="left"> <a href="https://twitter.com/sameera_s_w" target="blank"><img src="https://img.shields.io/twitter/follow/sameera_s_w?logo=twitter&style=for-the-badge" alt="sameera_s_w" /></a> </p>
@@ -18,11 +26,5 @@
 <a href="https://medium.com/@sameera_s_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@sameera_s_w" height="30" width="40" /></a>
 </p>
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,py,java,html,css,js,vscode,idea,ps,ai,sketchup,twitter,xd&theme=light" />
-  </a>
-</p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&locale=en" alt="sameerasw" /></p>
-**sameerasw/sameerasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-**sameerasw/sameerasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
