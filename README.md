@@ -1,5 +1,9 @@
 ### Hi there 👋
-
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=css,html,github,idea,ai,js,java,ps,py,sketchup,twitter,vscode,xd&theme=dark" />
+  </a>
+</p>
 <!--
 **sameerasw/sameerasw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
