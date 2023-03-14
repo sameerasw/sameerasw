@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/sameera_s_w" target="blank"><img src="https://img.shields.io/twitter/follow/sameera_s_w?logo=twitter&style=for-the-badge" alt="sameera_s_w" /></a> </p>
 
-- 🌱 I’m currently learning **JAVA**
+- 🌱 I’m currently learning a lot of languages but mostly Java, Python and also Database development with Web design.
 
 - 📫 How to reach me **@sameera_s_w**
 
