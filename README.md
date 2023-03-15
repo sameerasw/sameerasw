@@ -8,7 +8,7 @@
 
 <h3 align="center">A passionate student learning to code from Sri Lanka</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerasw&row=2" alt="sameerasw" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sameerasw&row=1" alt="sameerasw" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/sameera_s_w" target="blank"><img src="https://img.shields.io/twitter/follow/sameera_s_w?logo=twitter&style=for-the-badge" alt="sameera_s_w" /></a> </p>
 
