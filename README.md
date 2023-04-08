@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
 <div align=center> 
-<img src="https://readme-typing-svg.herokuapp.com?color=%ff11dbcf&size=24&center=true&vCenter=true&width=600&height=25&lines=Fun+Facts:;I+am+a+tech+enthusiast;I+love+movies+and+TV+shows;I+am+an+F1+fan;" alt="Headline" /> 
+ 
   </div>
 <br>
 <p align="center">
