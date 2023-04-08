@@ -15,7 +15,6 @@
            <img src="https://github-profile-trophy-arasgungore.vercel.app/?username=sameerasw&no-frame=true&no-bg=true&theme=flat&column=8&margin-w=5&margin-h=5&rank=-?" alt="Sameera Sandakelum" />
       </div>
 <br>
-<p align="left"> <a href="https://twitter.com/sameera_s_w" target="blank"><img src="https://img.shields.io/twitter/follow/sameera_s_w?logo=twitter&style=for-the-badge" alt="sameera_s_w" /></a> </p>
 
 - 🌱 I’m currently learning a lot of languages but mostly Java, Python and also Database development with Web design.
 
