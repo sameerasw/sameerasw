@@ -35,7 +35,7 @@
 <table align="center">
 <tr>
   <td>
-<a href="https://linkedin.com/in/sameerasw" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=tokyonight" alt="sameerasw"/></a>
+<a href="https://sameerasw.netlify.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=tokyonight" alt="sameerasw"/></a>
   </td>
   <td>
 <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerasw&hide_border=true&background=7777ff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D" alt="Sameera Sandakelum's GitHub Readme Streak Stats" /> </a>
