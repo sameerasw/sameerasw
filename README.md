@@ -1,13 +1,27 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
 <div align=center> 
  
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sameerasw&data=followers,repositories,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
+
   </div>
-<br>
-<p align="center">
+
+<table align="center">
+ <tr>
+  <td>
+   <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=github,py,java,dart,flutter,html,css,js,selenium,vscode,idea,ps,ai,figma,xd,sketchup&theme=light&perline=8" />
   </a>
 </p>
+  </td>
+  <td>
+   <div align="center">
+<a href="https://app.daily.dev/sameerasw"><img src="https://api.daily.dev/devcards/e9d04ebe290546158d9237e885b07b22.png?r=u8s" width="200" alt="Sameera Sandakelum's Dev Card"/></a>
+</div>
+  </td>
+ </tr>
+</table>
+
 
 <h3 align="center">A passionate person learning to code from Sri Lanka</h3>
 
@@ -46,3 +60,8 @@
 # My Setup
 [![image](https://user-images.githubusercontent.com/68902530/230953268-8d260b98-530d-4e21-b34a-6651bc3014f6.png)](https://gist.github.com/sameerasw/12274932161b8b380fe0433e71fb9a9f)
 [> More info](https://gist.github.com/sameerasw/12274932161b8b380fe0433e71fb9a9f)
+
+<a href="https://www.data-card-for-spotify.com/card?user_id=jxo399tzrlpbc5swevpouxkqk">
+  <img src="https://www.data-card-for-spotify.com/api/card?user_id=jxo399tzrlpbc5swevpouxkqk&hide_title=1" alt="Spotify">
+</a>
+
