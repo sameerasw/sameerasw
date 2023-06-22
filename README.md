@@ -30,7 +30,7 @@
       </div>
 <br>
 
-- 🌱 I’m currently learning a lot of languages but mostly Java, Python and also Database development with Web design.
+- 🌱 I’m currently working in the UI/UI and front-end field while learning a lot of languages but mostly Java, Python and Web design.
 
 - 📫 How to reach me **@sameera_s_w**
 
