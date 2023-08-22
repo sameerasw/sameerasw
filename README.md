@@ -61,7 +61,4 @@
 [![image](https://user-images.githubusercontent.com/68902530/230953268-8d260b98-530d-4e21-b34a-6651bc3014f6.png)](https://gist.github.com/sameerasw/12274932161b8b380fe0433e71fb9a9f)
 [> More info](https://gist.github.com/sameerasw/12274932161b8b380fe0433e71fb9a9f)
 
-<a href="https://data-card-for-spotify.herokuapp.com/card?user_id=jxo399tzrlpbc5swevpouxkqk">
-  <img src="https://data-card-for-spotify.herokuapp.com/api/card?user_id=jxo399tzrlpbc5swevpouxkqk" alt="Data Card for Spotify">
-</a>
 
