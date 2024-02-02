@@ -1,7 +1,6 @@
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
+<h3 align="center">A passionate guy learning to code from Sri Lanka</h3> <br>
 <div align=center> 
- 
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=sameerasw&data=followers,stars,commits&theme=darkmode)](https://github.com/Jurredr/github-widgetbox)
 
   </div>
 
@@ -12,12 +11,8 @@
 </p>
 
 
-<h3 align="center">A passionate person learning to code from Sri Lanka</h3> <br>
 
-
-- 🌱 I’m currently working in the UI/UI and front-end field while learning a lot of languages but mostly Java, Python and Web design.
-
-- 📫 How to reach me **@sameera_s_w**
+👨🏻‍💻 Currently working in the UI/UI and front-end field while learning a dev in the meantime. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,7 +22,6 @@
 <a href="https://instagram.com/sameera_s_w" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sameera_s_w" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="sameerasw" height="30" width="40" /></a>
 </p>
-
 
 <table align="center">
 <tr>
@@ -39,4 +33,9 @@
   </td>
 <tr>
 </table>
-   
+
+<h3>Checkout my Hackintosh!</h3>
+<a href="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore"><img src="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore/assets/68902530/6cb7fccf-d9cf-4394-acc6-2e543470c288")></a>
+
+<h3>Join my community!</h3>
+<a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
