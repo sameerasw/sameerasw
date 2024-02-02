@@ -34,8 +34,9 @@
 <tr>
 </table>
 
+<h3>Join my community!</h3>
+<a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
+
 <h3>Checkout my Hackintosh!</h3>
 <a href="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore"><img src="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore/assets/68902530/6cb7fccf-d9cf-4394-acc6-2e543470c288")></a>
 
-<h3>Join my community!</h3>
-<a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
