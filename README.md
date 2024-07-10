@@ -1,5 +1,6 @@
+![edc-cover Large](https://github.com/sameerasw/sameerasw/assets/68902530/856f5c8f-8aec-4643-9e6d-9bcf5a21ba5c)
+
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
-<h3 align="center">A passionate guy learning to code from Sri Lanka</h3> <br>
 <div align=center> 
 
   </div>
