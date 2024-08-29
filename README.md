@@ -38,5 +38,5 @@
 <h3>Join my community!</h3>
 <a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
 
-<h3>Checkout my Hackintosh!</h3>
-<a href="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore"><img src="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore/assets/68902530/c68c9a17-360e-4220-8952-0997bcd89047")></a>
+<h3>Checkout my setup!</h3>
+<a href="https://sameerasw.com/macos"><img src="https://github.com/user-attachments/assets/1069290e-82cd-4600-a02e-0d1b8f1bc3b5")></a>
