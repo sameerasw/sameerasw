@@ -39,4 +39,4 @@
 <a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
 
 <h3>Checkout my setup!</h3>
-<a href="https://sameerasw.com/macos"><img src="https://github.com/user-attachments/assets/1069290e-82cd-4600-a02e-0d1b8f1bc3b5")></a>
+<a href="https://sameerasw.com/macos"><img src="https://github.com/user-attachments/assets/000bed92-5ffc-4fe3-a21b-aa484e2bcb74")></a>
