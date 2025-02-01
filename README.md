@@ -13,7 +13,7 @@
 
 
 
-👨🏻‍💻 Currently working in the UI/UI and front-end field while learning a dev in the meantime. 
+👨🏻‍💻 Currently working in the UI/UX and front-end field while learning a dev in the meantime. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
