@@ -7,13 +7,13 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,gitlab,py,java,androidstudio,kotlin,html,css,js,ts,react,bootstrap,vscode,idea,ps,ai,figma,xd,linux,md&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=github,apple,java,kotlin,ts,react,mui,redux,py,html,css,js,vscode,idea,androidstudio,figma,ps,notion,windows,git&theme=light&perline=10" />
   </a>
 </p>
 
 
 
-👨🏻‍💻 Currently working in the UI/UX and front-end field while learning a dev in the meantime. 
+👨🏻‍💻 Currently working in the UI/UX and front-end field while learning front-end development in the meantime. 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
