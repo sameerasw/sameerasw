@@ -1,4 +1,5 @@
-![setup-wireframe-g](https://github.com/user-attachments/assets/1e4500f2-b326-4a0c-ba4b-42ab802c27bf)
+![setup-wireframe](https://github.com/user-attachments/assets/1a22ed9f-49ae-4552-adfe-6d495f1562cb)
+
 <h2 align="center"> <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a> </h2>
 <h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
 <div align=center> 
