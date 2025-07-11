@@ -1,17 +1,21 @@
-![setup-wireframe](https://github.com/user-attachments/assets/1a22ed9f-49ae-4552-adfe-6d495f1562cb)
-
-<h1 align="center">Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, I'm Sameera</h1>
-<div align=center> 
-<a href="https://www.buymeacoffee.com/sameerasw" target="_blank" title="buymeacoffee">
-  <img src="https://iili.io/JoQl86x.md.png"  alt="buymeacoffee-green-badge" style="width: 104px;">
-</a>
-
-  </div>
-  
 <p align="center">
-👨🏻‍💻 Currently working in the UI/UX and front-end field while learning front-end development in the meantime. 
+  <img src="https://github.com/user-attachments/assets/1a22ed9f-49ae-4552-adfe-6d495f1562cb" alt="setup-wireframe" />
 </p>
 
+<h1 align="center" style="border: none; font-size: 2.5rem; margin-bottom: 0;">
+  Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px" />, I'm Sameera
+</h1>
+
+
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  👨🏻‍💻 Currently accepting bug reports and compliments — I design, code, over-engineer, panic-debug, and celebrate small wins 🎉😎
+</p>
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/sameerasw" target="_blank" title="Buy Me a Coffee">
+    <img src="https://iili.io/JoQl86x.md.png" alt="Buy Me a Coffee" width="104" />
+  </a>
+</p>
 
 <table align="center">
 <tr>
