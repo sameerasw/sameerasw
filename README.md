@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/f4ebc8b4-a87f-49ed-a4b3-c16f377c2c8f" alt="setup-wireframe" />
+  <img src="https://github.com/user-attachments/assets/a6c4b730-06fe-48fd-9d6c-4eb3e1a51979" alt="setup-wireframe" />
 </p>
+
 
 
 <h1 align="center" style="border: none; font-size: 2.5rem; margin-bottom: 0;">
