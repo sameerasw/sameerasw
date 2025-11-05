@@ -12,6 +12,9 @@
 <p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
   👨🏻‍💻 Currently accepting bug reports and compliments — I design, code, over-engineer, panic-debug, and celebrate small wins 🎉😎
 </p>
+<p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
+  Love building native apps and also making the web a pretty place. Currently making all the apps I wish if I had with Swift and Jetpack and sharing with the community. Spending my free time making web browsing experience feel native with transparency and minimal styling on Zen and other browsers.
+</p>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/sameerasw" target="_blank" title="Buy Me a Coffee">
@@ -19,21 +22,14 @@
   </a>
 </p>
 
-<table align="center">
-<tr>
-  <td>
-<a href="https://sameerasw.netlify.app" target="blank"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=tokyonight" alt="sameerasw"/></a>
-  </td>
-  <td>
-<!-- <a href="https://git.io/streak-stats"> <img src="http://github-readme-streak-stats.herokuapp.com?user=sameerasw&hide_border=true&background=7777ff&currStreakLabel=ffffff&date_format=j%20M%5B%20Y%5D" alt="Sameera Sandakelum's GitHub Readme Streak Stats" /> </a> -->
-    <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sameerasw&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
-  </td>
-<tr>
-</table>
+<p align="center">
+  <a href="https://sameerasw.com" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=transparent&hide_border=true" width="45%" alt="Github stats"/></a>
+  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sameerasw&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%"  alt="Github streak"/></a>
+</p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,kotlin,html,css,js,ts,react,mui,figma,apple&theme=light&perline=10" />
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,html,css,js,ts,react,mui,github,notion,figma,apple&theme=light&perline=12" />
   </a>
   <br/>
   <br/>
