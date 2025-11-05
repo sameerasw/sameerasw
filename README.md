@@ -23,26 +23,31 @@
 </p>
 
 <p align="center">
-  <a href="https://sameerasw.com" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=transparent&hide_border=true" width="45%" alt="Github stats"/></a>
-  <a href="https://git.io/streak-stats"><img src="https://git-hub-streak-stats.vercel.app?user=sameerasw&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%"  alt="Github streak"/></a>
-</p>
-
-<p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=swift,kotlin,html,css,js,ts,react,mui,github,notion,figma,apple&theme=light&perline=12" />
   </a>
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sameerasw&langs_count=20&layout=compact"/>
-  
-<h2 align="center"> <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a> </h2>
 </p>
+
+<p align="center">
+  <a href="https://sameerasw.com" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide_title=true" width="45%" alt="Github stats"/></a>
+  <a href="https://sameerasw.com"><img src="https://git-hub-streak-stats.vercel.app?user=sameerasw&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%"  alt="Github streak"/></a>
+</p>
+
+<p align="center">
+  <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sameerasw&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/>
+</p>
+
+<h3>Checkout my setup!</h3>
+<a href="https://sameerasw.com/macos"><img src="https://github.com/user-attachments/assets/9beb7458-3f98-44c7-ad8f-081fa625df57")></a>
 
 <h3>Join my community!</h3>
 <a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
 
-<h3>Checkout my setup!</h3>
-<a href="https://sameerasw.com/macos"><img src="https://github.com/user-attachments/assets/ad5535ce-dfac-47ff-9412-387a3ac5d20e")></a>
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
