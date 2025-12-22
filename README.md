@@ -16,6 +16,115 @@
   Love building native apps and also making the web a pretty place. Currently making all the apps I wish if I had with Swift and Jetpack and sharing with the community. Spending my free time making web browsing experience feel native with transparency and minimal styling on Zen and other browsers.
 </p>
 
+## My Apps &Projects
+All my apps and projects listed in one place
+
+<details>
+<summary><b>AirSync</b> 💻 Continuity for your Android and mac</summary>
+<img src="https://github.com/user-attachments/assets/ff93751b-5b44-414f-a0c2-6803ec776352" alt="airsync" />
+  
+* [AirSync Website](https://sameerasw.com/airsync)
+* [macOS Repo](https://github.com/sameerasw/airsync-mac)
+* [Android Repo](https://github.com/sameerasw/airsync-android)
+* [Raycast Extension](https://github.com/sameerasw/airsync-raycast)
+
+</details>
+
+<details>
+<summary><b>ZenZero</b> 🌐 A transparent and minimal Zen Browser</summary>
+<img src="https://github.com/user-attachments/assets/7d652ea5-e4dd-4602-a786-047b5df7f047" alt="zen" />
+
+* [ZenZero Website](https://sameerasw.com/zen)
+* [my-internet](https://github.com/sameerasw/my-internet)
+* [ZenZero Repo](https://github.com/sameerasw/ZenZero)
+* [zen-themes](https://github.com/sameerasw/zen-themes)
+* [zeninternet](https://github.com/sameerasw/zeninternet)
+
+</details>
+
+<details>
+<summary><b>Essentials</b> ⚙️ Android tools and customizations</summary>
+
+* [Essentials Repo](https://github.com/sameerasw/essentials)
+
+</details>
+
+<details>
+<summary><b>Canvas</b> 🎨 Material You Expressive drawing app</summary>
+
+* [Canvas Repo](https://github.com/sameerasw/Canvas)
+
+</details>
+
+<details>
+<summary><b>Tasks</b> ✅ Liquid Glass macOS Google Tasks client</summary>
+
+* [Tasks Repo](https://github.com/sameerasw/tasks)
+
+</details>
+
+<details>
+<summary><b>Zero</b> 0️⃣ Minimal transparent Liquid Glass browser</summary>
+
+* [Zero Repo](https://github.com/sameerasw/Browser)
+
+</details>
+
+<details>
+<summary><b>folder-icons</b> 📂 Windows and macOS style custom folders</summary>
+
+* [Icon Categories](https://sameerasw.com/icons/categories)
+* [folder-icons Repo](https://github.com/sameerasw/folder-icons)
+* [mac-icons Repo](https://github.com/sameerasw/mac-icons)
+
+</details>
+
+<details>
+<summary><b>Keyboard</b> ⌨️ Redragon FIZZ K617 custom key-mapping</summary>
+
+* [REDRAGON-FIZZ-K617-macro](https://github.com/sameerasw/REDRAGON-FIZZ-K617-macro)
+* [numpad-macros](https://github.com/sameerasw/numpad-macros)
+
+</details>
+
+<details>
+<summary><b>Menubar</b> 🗺️ macOS like menubar for Windows</summary>
+
+* [Menubar Repo](https://github.com/sameerasw/MenuBar)
+
+</details>
+
+<details>
+<summary><b>Hackintosh</b> 💻 Acer Nitro 5 Build</summary>
+
+* [Nitro5-2018_AN515-52_OpenCore](https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore)
+
+</details>
+
+<details>
+<summary><b>Gumroad Stats</b> 💰 Earnings tracker for Android</summary>
+
+* [Gumroad Stats Repo](https://github.com/sameerasw/GumroadStats)
+
+</details>
+
+<details>
+<summary><b>Dicing & Moview</b> 🎲🎬 Jetpack Android Apps</summary>
+
+* [Dicing Repo](https://github.com/sameerasw/dicing)
+* [Moview Repo](https://github.com/sameerasw/moview)
+
+</details>
+
+<details>
+<summary><b>Telegram Bots</b> 🤖 Discord RPC for Telegram</summary>
+
+* [telegram-activity-bot](https://github.com/sameerasw/telegram-activity-bot)
+* [music-bot](https://github.com/sameerasw/music-bot)
+
+</details>
+---
+
 <p align="center">
   <a href="https://www.buymeacoffee.com/sameerasw" target="_blank" title="Buy Me a Coffee">
     <img src="https://iili.io/JoQl86x.md.png" alt="Buy Me a Coffee" width="104" />
