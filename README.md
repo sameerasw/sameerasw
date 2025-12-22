@@ -1,4 +1,4 @@
-<p align="center">
+![498670644-0053365a-76c3-478b-aea5-ec8754e95c22 Medium](https://github.com/user-attachments/assets/0690698f-60f7-4bd2-9fab-bf05eda2cdb6)<p align="center">
   <img src="https://github.com/user-attachments/assets/a6c4b730-06fe-48fd-9d6c-4eb3e1a51979" alt="setup-wireframe" />
 </p>
 
@@ -44,13 +44,15 @@ All my apps and projects listed in one place
 
 <details>
 <summary><b>Essentials</b> ⚙️ Android tools and customizations</summary>
-
+<img src="https://github.com/user-attachments/assets/34d117ff-ce65-4fce-a6b8-e81e57b8187d" alt="essentials" />
+  
 * [Essentials Repo](https://github.com/sameerasw/essentials)
 
 </details>
 
 <details>
 <summary><b>Canvas</b> 🎨 Material You Expressive drawing app</summary>
+<img src="https://github.com/user-attachments/assets/05f8d111-0e45-4186-b089-d63d9470ec99" alt="canvas" />
 
 * [Canvas Repo](https://github.com/sameerasw/Canvas)
 
@@ -58,6 +60,7 @@ All my apps and projects listed in one place
 
 <details>
 <summary><b>Tasks</b> ✅ Liquid Glass macOS Google Tasks client</summary>
+<img src="https://github.com/user-attachments/assets/cad3e075-24b3-49a6-a5a4-e4418010ef81" alt="tasks" />
 
 * [Tasks Repo](https://github.com/sameerasw/tasks)
 
@@ -65,6 +68,7 @@ All my apps and projects listed in one place
 
 <details>
 <summary><b>Zero</b> 0️⃣ Minimal transparent Liquid Glass browser</summary>
+<img src="https://github.com/user-attachments/assets/65207832-d619-4f40-8f0e-9ad1d4a83b86" alt="Zero" />
 
 * [Zero Repo](https://github.com/sameerasw/Browser)
 
@@ -123,7 +127,8 @@ All my apps and projects listed in one place
 * [music-bot](https://github.com/sameerasw/music-bot)
 
 </details>
----
+
+<hr>
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/sameerasw" target="_blank" title="Buy Me a Coffee">
