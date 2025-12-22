@@ -1,4 +1,4 @@
-![498670644-0053365a-76c3-478b-aea5-ec8754e95c22 Medium](https://github.com/user-attachments/assets/0690698f-60f7-4bd2-9fab-bf05eda2cdb6)<p align="center">
+<p align="center">
   <img src="https://github.com/user-attachments/assets/a6c4b730-06fe-48fd-9d6c-4eb3e1a51979" alt="setup-wireframe" />
 </p>
 
