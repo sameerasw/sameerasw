@@ -143,9 +143,10 @@ All my apps and projects listed in one place
 </p>
 
 <p align="center">
-  <a href="https://sameerasw.com" target="blank"><img src="https://github-readme-stats.vercel.app/api?username=sameerasw&show_icons=true&count_private=true&theme=transparent&hide_border=true&hide_title=true" width="45%" alt="Github stats"/></a>
-  <a href="https://sameerasw.com"><img src="https://git-hub-streak-stats.vercel.app?user=sameerasw&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D" width="45%"  alt="Github streak"/></a>
+  <a href="https://sameerasw.com" target="blank"> <img src="https://github-readme-streak-stats.herokuapp.com?user=sameerasw&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </a> <br>
+  <a href="https://sameerasw.com" target="blank"> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sameerasw" alt="GitHub Streak" /> </a>
 </p>
+
 
 <p align="center">
   <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
