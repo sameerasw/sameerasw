@@ -16,7 +16,7 @@
   Love building native apps and also making the web a pretty place. Currently making all the apps I wish if I had with Swift and Jetpack and sharing with the community. Spending my free time making web browsing experience feel native with transparency and minimal styling on Zen and other browsers.
 </p>
 
-## My Apps &Projects
+## My Apps & Projects
 All my apps and projects listed in one place
 
 <details>
