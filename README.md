@@ -31,6 +31,14 @@ All my apps and projects listed in one place
 </details>
 
 <details>
+<summary><b>Essentials</b> ⚙️ Android tools and customizations</summary>
+<img src="https://github.com/user-attachments/assets/34d117ff-ce65-4fce-a6b8-e81e57b8187d" alt="essentials" />
+  
+* [Essentials Repo](https://github.com/sameerasw/essentials)
+
+</details>
+
+<details>
 <summary><b>ZenZero</b> 🌐 A transparent and minimal Zen Browser</summary>
 <img src="https://github.com/user-attachments/assets/7d652ea5-e4dd-4602-a786-047b5df7f047" alt="zen" />
 
@@ -39,14 +47,6 @@ All my apps and projects listed in one place
 * [ZenZero Repo](https://github.com/sameerasw/ZenZero)
 * [zen-themes](https://github.com/sameerasw/zen-themes)
 * [zeninternet](https://github.com/sameerasw/zeninternet)
-
-</details>
-
-<details>
-<summary><b>Essentials</b> ⚙️ Android tools and customizations</summary>
-<img src="https://github.com/user-attachments/assets/34d117ff-ce65-4fce-a6b8-e81e57b8187d" alt="essentials" />
-  
-* [Essentials Repo](https://github.com/sameerasw/essentials)
 
 </details>
 
