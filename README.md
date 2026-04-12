@@ -143,7 +143,7 @@ All my apps and projects listed in one place
 </p>
 
 <p align="center">
-  <a href="https://sameerasw.com" target="blank"> <img src="https://github-readme-streak-stats.herokuapp.com?user=sameerasw&theme=transparent&hide_border=true&short_numbers=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" /> </a> <br>
+  <a href="https://sameerasw.com" target="blank"> <img src="https://github-readme-streak-stats.herokuapp.com?user=sameerasw&theme=transparent&hide_border=true&short_numbers=true" alt="GitHub Streak" /> </a> <br>
   <a href="https://sameerasw.com" target="blank"> <img src="https://readme-stats-github.pages.dev/api/top-langs?username=sameerasw" alt="GitHub Streak" /> </a>
 </p>
 
