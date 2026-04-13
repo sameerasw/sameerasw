@@ -160,7 +160,14 @@ All my apps and projects listed in one place
 <a href="https://sameerasw.com/macos"><img src="https://github.com/user-attachments/assets/9beb7458-3f98-44c7-ad8f-081fa625df57")></a>
 
 <h3>Join my community!</h3>
-<a href="https://t.me/tidwib"><img src="https://github.com/sameerasw/sameerasw/assets/68902530/5c267437-9469-4cf6-a61f-440643bef877")></a>
+
+<p align="center">
+  <a href="https://www.reddit.com/r/MadebySameerasw"><img  width="99%"  alt=" reddit-banner" src="https://github.com/user-attachments/assets/a5197458-d64a-4c6a-a6a3-9e1f36030205" /></a>
+</p>
+  
+<p align="center">
+<a href="https://t.me/tidwib"><img width="99%"  alt="telegram-banner"  src="https://github.com/user-attachments/assets/52066dd0-2dad-4e25-b846-dd4a0154e942")></a>
+</p>
 
 
 
