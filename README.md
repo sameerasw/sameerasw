@@ -75,6 +75,13 @@ All my apps and projects listed in one place
 </details>
 
 <details>
+<summary><b>Ambience</b> 🚥 RGB strip control app for macOS</summary>
+
+* [Ambience Repo](https://github.com/sameerasw/Ambience)
+
+</details>
+
+<details>
 <summary><b>folder-icons</b> 📂 Windows and macOS style custom folders</summary>
 
 * [Icon Categories](https://sameerasw.com/icons/categories)
