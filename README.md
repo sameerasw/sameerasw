@@ -77,6 +77,7 @@ All my apps and projects listed in one place
 <details>
 <summary><b>Ambience</b> 🚥 RGB strip control app for macOS</summary>
 
+* [Demo](https://www.reddit.com/r/MadebySameerasw/comments/1tlgji2/i_didnt_wanna_use_a_random_untrusted_mobile_app/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
 * [Ambience Repo](https://github.com/sameerasw/Ambience)
 
 </details>
