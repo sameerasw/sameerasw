@@ -67,6 +67,15 @@ All my apps and projects listed in one place
 </details>
 
 <details>
+<summary><b>Workspacer</b> 🪟 macOS Window manager</summary>
+<img width="1324" height="1288" alt="CleanShot-Workspacer-Workspacer-20260616-11  04 07@2x" src="https://github.com/user-attachments/assets/07ab6436-b4d9-4cde-81e0-60b2b2b876f9" />
+
+
+* [Workspacer v2 Repo](https://github.com/sameerasw/workspacer)
+
+</details>
+
+<details>
 <summary><b>Zero</b> 0️⃣ Minimal transparent Liquid Glass browser</summary>
 <img src="https://github.com/user-attachments/assets/65207832-d619-4f40-8f0e-9ad1d4a83b86" alt="Zero" />
 
