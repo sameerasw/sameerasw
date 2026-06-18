@@ -16,136 +16,26 @@
   Love building native apps and also making the web a pretty place. Spending my free time making cool native apps and browser mods.
 </p>
 
-## My Apps & Projects
-All my apps and projects listed in one place
+<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
+  My Apps and Projects
+</h2>
 
-<details>
-<summary><b>AirSync</b> 💻 Continuity for your Android and mac</summary>
-<img src="https://github.com/user-attachments/assets/ff93751b-5b44-414f-a0c2-6803ec776352" alt="airsync" />
-  
-* [AirSync Website](https://sameerasw.com/airsync)
-* [macOS Repo](https://github.com/sameerasw/airsync-mac)
-* [Android Repo](https://github.com/sameerasw/airsync-android)
-* [Raycast Extension](https://github.com/sameerasw/airsync-raycast)
+<p align="center">
+  <a href="https://sameerasw.com/airsync"><img width="32%" alt="airsync" src="https://github.com/user-attachments/assets/3844e1de-821a-40bf-a648-16c6ea0fe0c8" /></a>
+  <a href="https://sameerasw.com/essentials"><img width="32%" alt="essentials" src="https://github.com/user-attachments/assets/ecf55a34-f5b0-40ea-92e7-f14b5c6b9f92" /></a>
+  <a href="https://sameerasw.com/zen"><img width="32%" alt="zen" src="https://github.com/user-attachments/assets/fce33b2e-7a76-486f-b372-15d40b3d66c2" /></a>
+  <a href="https://play.google.com/store/apps/details?id=com.sameerasw.canvas"><img width="32%" alt="canvas" src="https://github.com/user-attachments/assets/a997d648-a0ed-44f9-8e1c-11ff9796f266" /></a>
+  <a href="https://github.com/sameerasw/tasks"><img width="32%" alt="tasks" src="https://github.com/user-attachments/assets/e94e7dbc-9c59-44a2-888c-7be54b4e7081" /></a>
+  <a href="https://github.com/sameerasw/workspacer"><img width="32%" alt="workspacer" src="https://github.com/user-attachments/assets/0596d8ac-85d4-4330-8899-cb5a105caa11" /></a>
+  <a href="https://github.com/sameerasw/Browser"><img width="32%" alt="zero" src="https://github.com/user-attachments/assets/40dd4b3d-022c-4be9-9a5b-353095096843" /></a>
+  <a href="https://github.com/sameerasw/Ambience"><img width="32%" alt="ambience" src="https://github.com/user-attachments/assets/a3997400-78b1-46c9-ab71-b450c7530b9d" /></a>
+  <a href="https://sameerasw.com/icons/categories.html"><img width="32%" alt="folder-icons" src="https://github.com/user-attachments/assets/dcf1142e-1904-4ca5-8bbd-693c7655c5bd" /></a>
+  <a href="https://github.com/sameerasw/REDRAGON-FIZZ-K617-macro"><img width="32%" alt="keyboard" src="https://github.com/user-attachments/assets/61b44409-72ab-4c5f-b87f-19747c6a89a1" /></a>
+  <a href="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore"><img width="32%" alt="hackintosh" src="https://github.com/user-attachments/assets/3299b967-c36d-4f1a-b1a2-27040e75482e" /></a>
+  <a href="https://github.com/sameerasw/GumroadStats"><img width="32%" alt="gumroad" src="https://github.com/user-attachments/assets/413a2179-224c-41cb-951a-195a13df9ad0" /></a>
+</p>
 
-</details>
-
-<details>
-<summary><b>Essentials</b> ⚙️ Android tools and customizations</summary>
-<img src="https://github.com/user-attachments/assets/34d117ff-ce65-4fce-a6b8-e81e57b8187d" alt="essentials" />
-  
-* [Essentials Repo](https://github.com/sameerasw/essentials)
-
-</details>
-
-<details>
-<summary><b>ZenZero</b> 🌐 A transparent and minimal Zen Browser</summary>
-<img src="https://github.com/user-attachments/assets/7d652ea5-e4dd-4602-a786-047b5df7f047" alt="zen" />
-
-* [ZenZero Website](https://sameerasw.com/zen)
-* [my-internet](https://github.com/sameerasw/my-internet)
-* [ZenZero Repo](https://github.com/sameerasw/ZenZero)
-* [zen-themes](https://github.com/sameerasw/zen-themes)
-* [zeninternet](https://github.com/sameerasw/zeninternet)
-
-</details>
-
-<details>
-<summary><b>Canvas</b> 🎨 Material You Expressive drawing app</summary>
-<img src="https://github.com/user-attachments/assets/05f8d111-0e45-4186-b089-d63d9470ec99" alt="canvas" />
-
-* [Canvas Repo](https://github.com/sameerasw/Canvas)
-
-</details>
-
-<details>
-<summary><b>Tasks</b> ✅ Liquid Glass macOS Google Tasks client</summary>
-<img src="https://github.com/user-attachments/assets/cad3e075-24b3-49a6-a5a4-e4418010ef81" alt="tasks" />
-
-* [Tasks Repo](https://github.com/sameerasw/tasks)
-
-</details>
-
-<details>
-<summary><b>Workspacer</b> 🪟 macOS Window manager</summary>
-<img width="1324" height="1288" alt="CleanShot-Workspacer-Workspacer-20260616-11  04 07@2x" src="https://github.com/user-attachments/assets/07ab6436-b4d9-4cde-81e0-60b2b2b876f9" />
-
-
-* [Workspacer v2 Repo](https://github.com/sameerasw/workspacer)
-
-</details>
-
-<details>
-<summary><b>Zero</b> 0️⃣ Minimal transparent Liquid Glass browser</summary>
-<img src="https://github.com/user-attachments/assets/65207832-d619-4f40-8f0e-9ad1d4a83b86" alt="Zero" />
-
-* [Zero Repo](https://github.com/sameerasw/Browser)
-
-</details>
-
-<details>
-<summary><b>Ambience</b> 🚥 RGB strip control app for macOS</summary>
-
-* [Demo](https://www.reddit.com/r/MadebySameerasw/comments/1tlgji2/i_didnt_wanna_use_a_random_untrusted_mobile_app/?utm_source=share&utm_medium=web3x&utm_name=web3xcss&utm_term=1&utm_content=share_button)
-* [Ambience Repo](https://github.com/sameerasw/Ambience)
-
-</details>
-
-<details>
-<summary><b>folder-icons</b> 📂 Windows and macOS style custom folders</summary>
-
-* [Icon Categories](https://sameerasw.com/icons/categories)
-* [folder-icons Repo](https://github.com/sameerasw/folder-icons)
-* [mac-icons Repo](https://github.com/sameerasw/mac-icons)
-
-</details>
-
-<details>
-<summary><b>Keyboard</b> ⌨️ Redragon FIZZ K617 custom key-mapping</summary>
-
-* [REDRAGON-FIZZ-K617-macro](https://github.com/sameerasw/REDRAGON-FIZZ-K617-macro)
-* [numpad-macros](https://github.com/sameerasw/numpad-macros)
-
-</details>
-
-<details>
-<summary><b>Menubar</b> 🗺️ macOS like menubar for Windows</summary>
-
-* [Menubar Repo](https://github.com/sameerasw/MenuBar)
-
-</details>
-
-<details>
-<summary><b>Hackintosh</b> 💻 Acer Nitro 5 Build</summary>
-
-* [Nitro5-2018_AN515-52_OpenCore](https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore)
-
-</details>
-
-<details>
-<summary><b>Gumroad Stats</b> 💰 Earnings tracker for Android</summary>
-
-* [Gumroad Stats Repo](https://github.com/sameerasw/GumroadStats)
-
-</details>
-
-<details>
-<summary><b>Dicing & Moview</b> 🎲🎬 Jetpack Android Apps</summary>
-
-* [Dicing Repo](https://github.com/sameerasw/dicing)
-* [Moview Repo](https://github.com/sameerasw/moview)
-
-</details>
-
-<details>
-<summary><b>Telegram Bots</b> 🤖 Discord RPC for Telegram</summary>
-
-* [telegram-activity-bot](https://github.com/sameerasw/telegram-activity-bot)
-* [music-bot](https://github.com/sameerasw/music-bot)
-
-</details>
-
-<hr>
+<!-- <hr> -->
 
 <p align="center">
   <a href="https://www.buymeacoffee.com/sameerasw" target="_blank" title="Buy Me a Coffee">
@@ -160,7 +50,8 @@ All my apps and projects listed in one place
 </p>
 
 <p align="center">
-  <img src="https://gh-window.vercel.app/api/sameerasw?theme=dark&accent=10b981" alt="sameerasw's GitHub stats" />
+  <img width="45%" src="https://gh-window.vercel.app/api/sameerasw?theme=dark&accent=10b981" alt="sameerasw's GitHub stats" />
+  <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sameerasw&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/>
 </p>
 
 
@@ -168,14 +59,14 @@ All my apps and projects listed in one place
   <a href="https://wakatime.com/@sameerasw"><img src="https://wakatime.com/badge/user/87225cf9-1142-4c2b-a8a7-40a825681d5b.svg" alt="Total time coded since Apr 5 2023" /></a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sameerasw&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/>
-</p>
-
-<h3>Checkout my setup!</h3>
+<h3 align="center" style="border: none; font-size: 1rem; margin-bottom: 0;">
+  Check-out my Setup!
+</h3>
 <a href="https://sameerasw.com/macos"><img src="https://github.com/user-attachments/assets/9beb7458-3f98-44c7-ad8f-081fa625df57")></a>
 
-<h3>Join my community!</h3>
+<h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
+  Join My Community!
+</h2>
 
 <p align="center">
   <a href="https://www.reddit.com/r/MadebySameerasw"><img  width="99%"  alt=" reddit-banner" src="https://github.com/user-attachments/assets/a5197458-d64a-4c6a-a6a3-9e1f36030205" /></a>
@@ -186,9 +77,10 @@ All my apps and projects listed in one place
 </p>
 
 
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center" style="border: none; font-size: 1rem; margin-bottom: 0;">
+  Connect with Me
+</h3>
+<p align="center">
 <a href="https://twitter.com/sameeraswdotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sameera_s_w" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/sameerasw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sameerasw" height="30" width="40" /></a>
 <a href="https://fb.com/sameeraswdotcom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sameerasw" height="30" width="40" /></a>
