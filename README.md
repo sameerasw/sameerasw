@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/a6c4b730-06fe-48fd-9d6c-4eb3e1a51979" alt="setup-wireframe" />
+  <img alt="EDC" src="https://github.com/user-attachments/assets/03740fc7-56dc-404e-85a0-70f03d66e85d" />
 </p>
 
 
