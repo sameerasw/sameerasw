@@ -13,7 +13,7 @@
   👨🏻‍💻 Currently accepting bug reports and compliments — I design, code, over-engineer, panic-debug, and celebrate small wins 🎉😎
 </p>
 <p align="center" style="border: none; font-weight: normal; font-size: 1.5rem;">
-  Love building native apps and also making the web a pretty place. Spending my free time making cool native apps and browser mods.
+  Spending my free time making cool native apps and browser mods.
 </p>
 
 <h2 align="center" style="border: none; font-size: 1.5rem; margin-bottom: 0;">
