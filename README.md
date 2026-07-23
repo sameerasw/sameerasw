@@ -51,7 +51,7 @@
 
 <p align="center">
   <img width="45%" src="https://gh-window.vercel.app/api/sameerasw?theme=dark&accent=10b981" alt="sameerasw's GitHub stats" />
-  <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sameerasw&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/>
+  <!-- <img width="45%" src="https://github-readme-stats.vercel.app/api/wakatime?username=sameerasw&langs_count=20&layout=compact&theme=transparent&hide_border=true&hide_title=true"/> -->
 </p>
 
 
