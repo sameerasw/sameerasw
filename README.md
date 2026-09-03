@@ -20,15 +20,21 @@
   My Apps and Projects
 </h2>
 
+
 <p align="center">
-  <a href="https://sameerasw.com/airsync"><img width="32%" alt="airsync" src="https://github.com/user-attachments/assets/3844e1de-821a-40bf-a648-16c6ea0fe0c8" /></a>
-  <a href="https://sameerasw.com/essentials"><img width="32%" alt="essentials" src="https://github.com/user-attachments/assets/ecf55a34-f5b0-40ea-92e7-f14b5c6b9f92" /></a>
-  <a href="https://sameerasw.com/zen"><img width="32%" alt="zen" src="https://github.com/user-attachments/assets/fce33b2e-7a76-486f-b372-15d40b3d66c2" /></a>
+  <a href="https://sameerasw.com/airsync"><img width="32%" alt="airsync" src="https://github.com/user-attachments/assets/78a80877-7272-41a1-bcf1-956c9fef9ec4" /></a>
+  <a href="https://sameerasw.com/essentials"><img width="32%" alt="essentials" src="https://github.com/user-attachments/assets/66d99e01-a2ed-46e5-90e6-dd94eb8293c6" /></a>
+  <a href="https://github.com/sameerasw/MeDrop"><img width="32%" alt="medrop" src="https://github.com/user-attachments/assets/82499eb3-a2d0-4d72-844c-7d870860be08" /></a>
+  <a href="https://sameerasw.com/zen"><img width="32%" alt="zen" src="https://github.com/user-attachments/assets/d3516c85-2138-48b4-a926-4f379e3c7d3e" /></a>
   <a href="https://play.google.com/store/apps/details?id=com.sameerasw.canvas"><img width="32%" alt="canvas" src="https://github.com/user-attachments/assets/a997d648-a0ed-44f9-8e1c-11ff9796f266" /></a>
+  <a href="https://github.com/sameerasw/new-tab"><img width="32%" alt="glance" src="https://github.com/user-attachments/assets/fd81a0ed-4096-42b0-b9e4-c2f96f5c307b" /></a>
   <a href="https://github.com/sameerasw/tasks"><img width="32%" alt="tasks" src="https://github.com/user-attachments/assets/e94e7dbc-9c59-44a2-888c-7be54b4e7081" /></a>
   <a href="https://github.com/sameerasw/workspacer"><img width="32%" alt="workspacer" src="https://github.com/user-attachments/assets/0596d8ac-85d4-4330-8899-cb5a105caa11" /></a>
+  <a href="https://github.com/sameerasw/Daily"><img width="32%" alt="daily" src="https://github.com/user-attachments/assets/84cf028d-0c09-4a6c-9635-4ed857ea4000" /></a>
   <a href="https://github.com/sameerasw/Browser"><img width="32%" alt="zero" src="https://github.com/user-attachments/assets/40dd4b3d-022c-4be9-9a5b-353095096843" /></a>
   <a href="https://github.com/sameerasw/Ambience"><img width="32%" alt="ambience" src="https://github.com/user-attachments/assets/a3997400-78b1-46c9-ab71-b450c7530b9d" /></a>
+  <a href="https://github.com/sameerasw/Access"><img width="32%" alt="access" src="https://github.com/user-attachments/assets/38a60ae8-2cfe-44c0-a81f-b66865b12341" /></a>
+  <a href="https://github.com/sameerasw/draft-android"><img width="32%" alt="draft" src="https://github.com/user-attachments/assets/35646871-46fc-4319-990c-43b6d066366d" /></a>
   <a href="https://sameerasw.com/icons/categories.html"><img width="32%" alt="folder-icons" src="https://github.com/user-attachments/assets/dcf1142e-1904-4ca5-8bbd-693c7655c5bd" /></a>
   <a href="https://github.com/sameerasw/REDRAGON-FIZZ-K617-macro"><img width="32%" alt="keyboard" src="https://github.com/user-attachments/assets/61b44409-72ab-4c5f-b87f-19747c6a89a1" /></a>
   <a href="https://github.com/sameerasw/Nitro5-2018_AN515-52_OpenCore"><img width="32%" alt="hackintosh" src="https://github.com/user-attachments/assets/3299b967-c36d-4f1a-b1a2-27040e75482e" /></a>
@@ -69,11 +75,8 @@
 </h2>
 
 <p align="center">
-  <a href="https://www.reddit.com/r/MadebySameerasw"><img  width="99%"  alt=" reddit-banner" src="https://github.com/user-attachments/assets/a5197458-d64a-4c6a-a6a3-9e1f36030205" /></a>
-</p>
-  
-<p align="center">
-<a href="https://t.me/tidwib"><img width="99%"  alt="telegram-banner"  src="https://github.com/user-attachments/assets/52066dd0-2dad-4e25-b846-dd4a0154e942")></a>
+  <a href="https://www.reddit.com/r/MadebySameerasw"><img  width="49%"  alt=" reddit-banner" src="https://github.com/user-attachments/assets/a5197458-d64a-4c6a-a6a3-9e1f36030205" /></a>
+<a href="https://t.me/tidwib"><img width="49%"  alt="telegram-banner"  src="https://github.com/user-attachments/assets/52066dd0-2dad-4e25-b846-dd4a0154e942")></a>
 </p>
 
 
